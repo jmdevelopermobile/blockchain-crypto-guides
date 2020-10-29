@@ -139,31 +139,31 @@
       },
       {
         "en": {
-          "title": "Unstoppable Intro",
+          "title": "Bonepayment Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/en/5-unstoppable-basics.md",
           "updated_at": "01-06-2020"
         },
         "ru": {
-          "title": "Unstoppable Кошелек",
+          "title": "Bonepayment Кошелек",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/ru/5-unstoppable-basics.md",
           "updated_at": "01-06-2020"
         },
         "fr": {
-          "title": "Intro Unstoppable",
+          "title": "Intro Bonepayment",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/fr/5-unstoppable-basics.md",
           "updated_at": "01-06-2020"
         },
         "de": {
-          "title": "Unstoppable Intro",
+          "title": "Bonepayment Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/de/5-unstoppable-basics.md",
           "updated_at": "01-06-2020"
         },
         "fa": {
-          "title": "Unstoppable Intro",
+          "title": "Bonepayment Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/fa/5-unstoppable-basics.md",
           "updated_at": "01-06-2020"
