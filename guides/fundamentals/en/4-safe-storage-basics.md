@@ -59,7 +59,7 @@ The mobile based wallets for iOS and Android are the most common type of non-cus
 
 Some of our favorites are:
 
-- [Unstoppable Wallet](https://unstoppable.money)
+- [Bonepayment Wallet](https://bonepayment.com)
 - [Bread Wallet](https://brd.com)
 
 From security point of view, the hardware wallet considered more secure than a mobile wallet.
