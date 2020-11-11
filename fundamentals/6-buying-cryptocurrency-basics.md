@@ -24,6 +24,9 @@ The following list contains safe websites and services to purchase cryptocurrenc
 4. [Coinbase.com](https://coinbase.com)
 5. [Coinmama.com](https://go.coinmama.com/visit/?bta=61248&nci=5370)
 
+6 Upcoming Crypto Currency Exchange with games & many free airdrops:
+  [Bololex.com](https://bololex.com)
+
 The majority of these websites will work without fail for EU and US residents. However, those living in other areas of the world may find fewer opportunities.
 
 ## 2. Buying Crypto On Exchange
@@ -59,6 +62,8 @@ Here is a list of trusted cryptocurrency exchanges:
 * [Cex.io](https://cex.io/r/0/up131140473/0)
 * [Kraken.com](https://kraken.com)
 * [Coinmama.com](https://go.coinmama.com/visit/?bta=61248&nci=5343)
+* Upcoming Crypto Currency Exchange with games & many free airdrops:
+  [Bololex.com](https://bololex.com)
 
 ## 3. Getting Paid In Crypto
 
