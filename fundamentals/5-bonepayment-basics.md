@@ -4,6 +4,15 @@
 
 In this section we will focus on practical aspects and go through 'things to know' when using non-custodial wallet apps.
 
+Twitter:
+- [B ONE PAYMENT TWITTER](https://www.twitter.com/b1pwallet)
+
+Telegram:
+- [B ONE PAYMENT TELEGRAM](https://t.me/bonepayment)
+
+Website:
+- [B ONE PAYMENT WEBSITE](https://www.bonepayment.com)
+
 From user's perspective, basic expectations from any non-custodial wallet app should be:
 
 1. the wallet app should generate private keys in a standard-compliant manner. This ensures that private keys are safe and are compatible with other third party wallet apps.
