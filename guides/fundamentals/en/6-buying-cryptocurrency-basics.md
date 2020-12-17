@@ -16,7 +16,7 @@ In this section let's explore various ways of acquiring cryptocurrency.
 
 The easiest option for buying smaller amounts is using a credit or debit card. While the option to buy cryptocurrency is convenient, you often pay a slight premium for the privilege. 
 
-The following list contains safe websites and services to purchase cryptocurrency using a credit or debit card. 
+The following list contains safe websites and services to purchase cryptocurrencies.
 
 1. [Binance.com](https://www.binance.com/en/register?ref=42579924)
 
@@ -27,6 +27,9 @@ The following list contains safe websites and services to purchase cryptocurrenc
 4. [Coinbase.com](https://coinbase.com)
 
 5. [Coinmama.com](https://go.coinmama.com/visit/?bta=61248&nci=5370)
+
+6  [Bololex.com](https://bololex.com)	Upcoming Crypto Currency Exchange with games & many free airdrops.
+
 
 The majority of these websites will work without fail for EU and US residents. However, those living in other areas of the world may find fewer opportunities.
 
@@ -67,6 +70,8 @@ Here is a list of trusted cryptocurrency exchanges:
 * [Kraken.com](https://kraken.com)
 
 * [Coinmama.com](https://go.coinmama.com/visit/?bta=61248&nci=5343)
+
+* [Bololex.com](https://bololex.com)	Upcoming Crypto Currency Exchange with games & many free airdrops.
 
 ## 3. Getting Paid In Crypto
 
